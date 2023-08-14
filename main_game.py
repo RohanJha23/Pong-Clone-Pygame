@@ -67,7 +67,5 @@ class Striker:
             return self.Rectangle
         
 
-class Ball:
-    
 
 
